@@ -1,10 +1,10 @@
 # To Do
 
- [] Card Components is not finished yet.
+- [ ] Card Components is not finished yet.
 
- [] API integration should be done!
+- [ ] API integration should be done!
 
- - Where we left --> https://youtu.be/I2UBjN5ER4s?t=3789
+- Where we left --> https://youtu.be/I2UBjN5ER4s?t=3789
 
 
 ## Getting Started with Create React App
